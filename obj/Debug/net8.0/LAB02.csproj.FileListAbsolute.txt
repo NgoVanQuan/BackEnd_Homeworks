@@ -1,0 +1,14 @@
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\bin\Debug\net8.0\LAB02.exe
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\bin\Debug\net8.0\LAB02.deps.json
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\bin\Debug\net8.0\LAB02.runtimeconfig.json
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\bin\Debug\net8.0\LAB02.dll
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\bin\Debug\net8.0\LAB02.pdb
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\LAB02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\LAB02.AssemblyInfoInputs.cache
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\LAB02.AssemblyInfo.cs
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\LAB02.csproj.CoreCompileInputs.cache
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\LAB02.dll
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\refint\LAB02.dll
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\LAB02.pdb
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\LAB02.genruntimeconfig.cache
+C:\Thiet_Ke_BackEnd\CNTT_1703\LAB02\LAB02\obj\Debug\net8.0\ref\LAB02.dll
